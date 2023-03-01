@@ -1,0 +1,16 @@
+C:\Users\hi\source\eb_bill\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.AssemblyReference.cache
+C:\Users\hi\source\eb_bill\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\hi\source\eb_bill\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\eb_bill\eb_bill_interface\bin\Debug\eb_bill_interface.exe.config
+C:\Users\hi\source\eb_bill\eb_bill_interface\bin\Debug\eb_bill_interface.exe
+C:\Users\hi\source\eb_bill\eb_bill_interface\bin\Debug\eb_bill_interface.pdb
+C:\Users\hi\source\eb_bill\eb_bill_interface\obj\Debug\eb_bill_interface.exe
+C:\Users\hi\source\eb_bill\eb_bill_interface\obj\Debug\eb_bill_interface.pdb
+C:\Users\hi\source\.net c#\eb_bill_interface\bin\Debug\eb_bill_interface.exe.config
+C:\Users\hi\source\.net c#\eb_bill_interface\bin\Debug\eb_bill_interface.exe
+C:\Users\hi\source\.net c#\eb_bill_interface\bin\Debug\eb_bill_interface.pdb
+C:\Users\hi\source\.net c#\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.AssemblyReference.cache
+C:\Users\hi\source\.net c#\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\hi\source\.net c#\eb_bill_interface\obj\Debug\eb_bill_interface.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\.net c#\eb_bill_interface\obj\Debug\eb_bill_interface.exe
+C:\Users\hi\source\.net c#\eb_bill_interface\obj\Debug\eb_bill_interface.pdb
